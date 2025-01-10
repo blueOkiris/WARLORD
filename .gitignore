@@ -1,6 +1,9 @@
 # Aquila-specific code
 aquila-gcode/
 
+# Blender temp files
+*.blend1
+
 # Pdf of Ruleset
 *.pdf
 

@@ -1,0 +1,9 @@
+# Aquila-specific code
+aquila-gcode/
+
+# Pdf of Ruleset
+*.pdf
+
+# Any releases
+*.zip
+
